@@ -1,0 +1,24 @@
+{
+    "name": "oluwapelumi/laravel-user-review-master",
+    "description": "laravel 8",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "DGvai\\Review\\": "src"
+        }
+    },
+    "require": {
+        "php": "^7.2",
+        "laravel/framework": "^8.0",
+            "oluwapelumi/laravel-user-review-master": "1.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "DGvai\\Review\\ReviewerServiceProvider"
+            ]
+        }
+    }
+}
