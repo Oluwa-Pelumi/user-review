@@ -17,7 +17,7 @@ This package uses a trait for a model which can be reviewable by users and give 
 ## Installation
 > using COMPOSER
 
-`` composer require dgvai/laravel-user-review``
+`` composer require oluwapelumi/laravel-user-review``
 
 ## Configurations
 > Export the assets (migration and config)
